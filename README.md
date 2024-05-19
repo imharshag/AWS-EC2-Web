@@ -1,10 +1,10 @@
-# Hosting a Website Using MobaXterm in AWS
+# Hosting a Website Using MobaXterm in AWS - EC2
 
 ### Overview
 🌐🛠️ Launching a server and hosting a website with Apache HTTP Server using MobaXterm involves several steps, including provisioning an Amazon EC2 instance, configuring the instance with Apache HTTP Server, and deploying the website files. MobaXterm facilitates remote access and management of the server, allowing users to execute commands, transfer files, and monitor the server's performance. This guide provides a step-by-step overview of the process.
 
 ### Preview of Website
-Click here! to visit the website.
+Click here! to visit the [Website!](https://imharshag.github.io/AWS-EC2-Web/).
 
 ### Hosting a Website with Apache HTTP Server Using MobaXterm
 
@@ -35,3 +35,9 @@ Click here! to visit the website.
 ***Step 5: Accessing the Website***
 - Open a web browser and enter the public IP address or DNS name of the EC2 instance.
 - If configured correctly, the website hosted on Apache HTTP Server should be accessible and displayed in the browser.
+
+### Contact Information
+For inquiries or feedback, please contact **[Harsha G](mailto:harshag3106@gmail.com)**
+
+### Contributing
+🛠️ Contributions are welcome! Feel free to open an issue or submit a pull request with any improvements or bug fixes.
