@@ -3,6 +3,8 @@
 ### Overview
 🌐🛠️ Launching a server and hosting a website with Apache HTTP Server using MobaXterm involves several steps, including provisioning an Amazon EC2 instance, configuring the instance with Apache HTTP Server, and deploying the website files. MobaXterm facilitates remote access and management of the server, allowing users to execute commands, transfer files, and monitor the server's performance. This guide provides a step-by-step overview of the process.
 
+![Space Prospection](images/preview.png)
+
 ### Preview of Website
 Click here! to visit the [Website!](https://imharshag.github.io/AWS-EC2-Web/).
 
